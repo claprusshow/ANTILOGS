@@ -1,0 +1,1 @@
+start python logspamer.py --config config.json
